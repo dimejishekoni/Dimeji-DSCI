@@ -35,10 +35,12 @@ __Shoreline Power Company__
     
 - Engineer
 
-`2016(Intern)`
+`2016(6months)`
 __Total Nigeria Ltd__
 
-`2014(Intern)`
+- Intern
+
+`2014(3months)`
 __PremireNet autocare__
 
-
+- Intern
