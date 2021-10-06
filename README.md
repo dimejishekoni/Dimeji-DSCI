@@ -1,13 +1,44 @@
-#Education 
-##University of Lagos 
-##Bells University of Technology
-##Federal Government Boys' College Garki, Abuja
-##LEA Primary School Dawaki 
+---
+Layout: Curriculum Vitae 
+Title: Dimeji Shekoni's CV 
+---
+
+#SHEKONI OLADIMEJI's CURRICULUM VITAE 
+BSc Mechanical Engineering 
+MSc Mechanical Engineering
+
+
+## Education 
+
+`2019 - 2021` 
+__University of Lagos.__
+
+`2011 - 2017`
+__Bells University of Technology.__
+
+`2005 - 2011`
+__Federal Government Boys' College Garki, Abuja.__
+
+`2002 - 2005`
+__LEA Primary School Dawaki.__
 
 #Work Experience 
-##Mota-Engil Nigeria Limited
-##Shoreline Power Company
-##Total Nigeria Ltd
-##PremireNet autocare
+
+`2021 - Present`
+__Mota-Engil Nigeria Limited.__
+
+-Project Engineer 
+    -Project: Kano - Katsina - Maradi - Jibiya - Maradi(Niger) Railway Line with a branch line from Kano - Dutse  
+
+`2018 - 2021`
+__Shoreline Power Company__
+    
+-Engineer
+
+`2016(Intern)`
+__Total Nigeria Ltd__
+
+`2014(Intern)`
+__PremireNet autocare__
 
 
